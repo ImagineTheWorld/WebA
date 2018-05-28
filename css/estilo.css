@@ -93,8 +93,8 @@ figure{
 	margin: 6px;
 }
 .pie{
-	max-width: 100px;
-	width: 1500%;
+	max-width: 1500px;
+	width: 100%;
 	height: auto;
 }
 #scrollUp{
